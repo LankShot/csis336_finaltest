@@ -1,0 +1,16 @@
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\bin\Debug\net5.0\FinalTest.exe
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\bin\Debug\net5.0\FinalTest.deps.json
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\bin\Debug\net5.0\FinalTest.runtimeconfig.json
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\bin\Debug\net5.0\FinalTest.runtimeconfig.dev.json
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\bin\Debug\net5.0\FinalTest.dll
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\bin\Debug\net5.0\FinalTest.pdb
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\obj\Debug\net5.0\FinalTest.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\obj\Debug\net5.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\obj\Debug\net5.0\FinalTest.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\obj\Debug\net5.0\FinalTest.AssemblyInfo.cs
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\obj\Debug\net5.0\FinalTest.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\obj\Debug\net5.0\FinalTest.dll
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\obj\Debug\net5.0\refint\FinalTest.dll
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\obj\Debug\net5.0\FinalTest.pdb
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\obj\Debug\net5.0\FinalTest.genruntimeconfig.cache
+C:\Users\andre\Documents\School Work\CSIS 336\finaltest-ci3612px\obj\Debug\net5.0\ref\FinalTest.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/eCH5h8Tu9ZNqGBUIGpoE2Oi0nbgpFnqVEbIqPBNf6sVa1RAnz53gX371RY+JGDp/7gl837VJO78K4osDePAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\Documents\\School Work\\CSIS 336\\finaltest-ci3612px\\FinalTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
